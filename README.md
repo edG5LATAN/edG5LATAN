@@ -32,5 +32,5 @@ for my third project I create one application web for one store of sales telepho
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-Front_End-000?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://portafolio-frontend-rust.vercel.app/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-Back_Edn-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://portafolio-reack.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-Back_End-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://portafolio-reack.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/edwin-castro-13a763272)
