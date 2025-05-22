@@ -1,8 +1,8 @@
 
-# Hi, I'm Edwin Castro! 👋
+# Hi, I'm Edwin Castro! 👋 developer full stack
 
 
-![Logo](https://i.pinimg.com/originals/aa/36/97/aa36975172e46b30abf807d78858c96b.png)
+![Logo](https://i.pinimg.com/736x/c2/13/23/c213235611f95e7ed08985f2e7eaecd4.jpg)
 
 
 ## 🚀 About Me
@@ -28,6 +28,10 @@ I worked in three projects in to my community for one Laundy where the client ne
 My second project is for one buisness of telephone one page web for see your services in reparation and unlock mobile and thus be able to create an appointment for to visit the store in this project i was use React and Bootstrap for the Backend Express of NodeJs and MYSQL for my DataBase.
 
 for my third project I create one application web for one store of sales telephone and technology where the admin can modify, deleted, update and create products for this project i used React for the Frontedn and Bootstrap for the Backend SpringBoot of JAVA and MSQL for database
+
+I have also worked some projects how one page of wheather, someone page of joke and entertainment also one application of online agenda and one online video player of study or playing
+
+All this you can see in my github with your backend and frontend work.
 
 
 ## 🔗 Links
